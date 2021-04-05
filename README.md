@@ -20,16 +20,20 @@ Przykładowymi stronami zrobionymi przezemnie są (oczywiście wiele więcej ich
 - https://trzcinowy.slodkielaczy.pl
 - https://inter-widex.pl/
 - https://lato.slodkielaczy.pl
-- https://4hotels.inter-widex.pl/
+- https://4hotels.inter-widex.pl
 - http://greensquare.masterm.pl
 - https://wiosennazmiana.pl
+- http://pomagajzastra.pl
 
 - 🌱 Aktualnie ucze się zawansowanych technik JS oraz biblioteki REACT chciałbym również wejść w biblioteke VUE.
 
 - 👀 Interesuje się nowinkami techniczyni,gotowaniem,programowaniem,grami konsolowymi ( tak jestem graczem :) )
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Zkontakuj się ze mną jeżeli szukasz FrontEnd Developera !
+
+email : m.ratajczak1908@gmail.com
+tel : 732 005 639
+
 
 <!---
 raid1908/raid1908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
