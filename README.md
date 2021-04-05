@@ -29,7 +29,7 @@ Przykładowymi stronami zrobionymi przezemnie są (oczywiście wiele więcej ich
 
 - 👀 Interesuje się nowinkami techniczyni,gotowaniem,programowaniem,grami konsolowymi ( tak jestem graczem :) )
 
-- 📫 Zkontakuj się ze mną jeżeli szukasz FrontEnd Developera !
+- 📫 Zkontakuj się ze mną jeżeli szukasz FrontEnd Developera albo chcesz zobaczyć mój kod !
 
 email : m.ratajczak1908@gmail.com
 tel : 732 005 639
