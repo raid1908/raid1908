@@ -1,5 +1,5 @@
 - 👋 Witaj na mojej karcie GitHuba :)
-Jestem Maciej mam 27 lat i od 5 lat pracuje jako FrontEnd Developer. 
+Jestem Maciej mam 28 lat i od 6 lat pracuje jako FrontEnd Developer. 
 Wiadomo na początku jako rookie ale z czasem dzięki nauce i wielu kursom np(kurs Coders Lab javascript/React developer) przeszedłem 
 droge przez juniora aż do czasu teraźniejszego gdzie uważam się za Mida skillującego Reacta.
 Aktualnie moimi umiejętnościami są:
@@ -15,6 +15,9 @@ Aktualnie moimi umiejętnościami są:
 
 Przykładowymi stronami zrobionymi przezemnie są (oczywiście wiele więcej ich powstało ale z różnych względów np DMCA nie moge ich tu pokazać):
 
+- https://equilibra.pl/
+- https://equilibrasklep.pl/
+- https://www.siepowozi.pl/
 - https://wiosna.slodkielaczy.pl
 - https://baby.inter-widex.pl/
 - https://trzcinowy.slodkielaczy.pl
