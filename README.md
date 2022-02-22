@@ -21,7 +21,6 @@ Przykładowymi stronami zrobionymi przezemnie są (oczywiście wiele więcej ich
 - https://www.siepowozi.pl/
 - https://wiosna.slodkielaczy.pl
 - https://baby.inter-widex.pl/
-- https://trzcinowy.slodkielaczy.pl
 - https://inter-widex.pl/
 - https://lato.slodkielaczy.pl
 - https://4hotels.inter-widex.pl
