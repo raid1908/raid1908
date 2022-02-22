@@ -8,6 +8,7 @@ Aktualnie moimi umiejętnościami są:
 - CSS,
 - SASS,
 - JQ,
+- bootstrap,
 - Javascript,
 - MODX evo,
 - GIT VC,
