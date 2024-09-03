@@ -1,8 +1,6 @@
 - 👋 Witaj na mojej karcie GitHuba :)
-Jestem Maciej mam 28 lat i od 6 lat pracuje jako FrontEnd Developer. 
-Wiadomo na początku jako rookie ale z czasem dzięki nauce i wielu kursom np(kurs Coders Lab javascript/React developer) przeszedłem 
-droge przez juniora aż do czasu teraźniejszego gdzie uważam się za Mida skillującego Reacta.
-Aktualnie moimi umiejętnościami są:
+Jestem Maciej mam 30 lat i od 8 lat pracuje jako FrontEnd Developer. 
+Moimi umiejętnościami są:
 
 - HTML,
 - CSS,
@@ -10,29 +8,20 @@ Aktualnie moimi umiejętnościami są:
 - JQ,
 - Bootstrap,
 - Javascript,
-- MODX evo,
+- WP,
+- Twig,
+- Symfony,
+- PHP,
+- UnrealEngine(BP - Gry VR),
+- GDevelop(Gry Mobilne),
+- Cordova ( Aplkacje Webowe przenoszone na IOS/Android),
+- GoogleWebDesigner(Reklamy animowane GADs),
 - GIT VC,
-- REACT (początkująco).
 
-Przykładowymi stronami zrobionymi przezemnie są (oczywiście wiele więcej ich powstało ale z różnych względów np DMCA nie moge ich tu pokazać):
+Podczas swojej pracy Tworzyłem od podstaw / na podstawie assetów gry aktywacyjne na VR (Oculus Quest 2) oparte na silniku UE 5 , Gry mobilne aktywacyjne dla klientów na targi PGA oraz na strony konkursowe oraz aplikacje na systemy IOS Android kompilowane poprzez system Cordova na systemy POI i dla ambasadorów marek na eventy.Zajmowałem sie również tworzeniem sklepów opartych na systemie WooCommerce i PrestaShop, jak i stron www Tworzonych na WP na gotowych skórkach / costumowych layoutach tworzonych specjalnie pod klienta. Przez 8 lat pracy miałem również do czynienia z tworzeniem reklam w GoogleWebDesinerze oraz Z "ściagniem" danch poprzez API FB,IG bezposrednio z systemów społecznościowych. Udało mi sie równierz uczestniczyć w bezpośrednim tworzeniu systemu afiliacyjnego opartego na systemie PimCore (automatyzacja pobierania / aktualizacji danych od partnerów afiliacyjnych zadaniami CRON , tworzenie szablony opartego na Symfony oraz Twigu , costumowe zasady filtracji produktów ).  
 
-- https://equilibra.pl/
-- https://equilibrasklep.pl/
-- https://www.siepowozi.pl/
-- https://wiosna.slodkielaczy.pl
-- https://baby.inter-widex.pl/
-- https://inter-widex.pl/
-- https://lato.slodkielaczy.pl
-- https://4hotels.inter-widex.pl
-- http://greensquare.masterm.pl
-- https://wiosennazmiana.pl
-- http://pomagajzastra.pl
 
-- 🌱 Aktualnie ucze się zawansowanych technik JS oraz biblioteki REACT chciałbym również wejść w biblioteke VUE.
 
-- 👀 Interesuje się nowinkami techniczyni,gotowaniem,programowaniem,grami konsolowymi ( tak jestem graczem :) )
-
-- 📫 Zkontakuj się ze mną jeżeli szukasz FrontEnd Developera albo chcesz zobaczyć mój kod !
 
 email : m.ratajczak1908@gmail.com
 tel : 732 005 639
